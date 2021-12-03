@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DannyB587
 - 👀 On the way to becoming a Startup guy.
-- 🌱 I’m currently learning Android/Kotlin!
+- 🌱 I like Python!
 - 📫 How to reach me - call me/beep me. Idk never watched Kim Possible.
 
 <!---
