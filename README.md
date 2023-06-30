@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DannyB587
-- 👀 On the way to becoming a Startup guy.
-- 🌱 I like Python!
-- 📫 How to reach me - call me/beep me. Idk never watched Kim Possible.
+- 👀 By day, I'm an IT manager, but at night I like to practice coding, mostly as a hobby.
+- 🌱 I like Python! I'm also learning C#.
+- 📫 How to reach me - on LinkedIn! https://linkedin.com/in/dan-boyd
 
 <!---
 DannyB587/DannyB587 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
