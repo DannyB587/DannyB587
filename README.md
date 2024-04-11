@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DannyB587
-- 👀 By day, I'm an IT manager, but at night I like to practice coding, mostly as a hobby.
-- 🌱 I like Python! I'm also learning C#.
+- 👀 By day, I'm a sysadmin, but at night I like to practice coding, mostly as a hobby.
+- 🌱 I like Python, Java, and C!
 - 📫 How to reach me - on LinkedIn! https://linkedin.com/in/dan-boyd
 
 <!---
